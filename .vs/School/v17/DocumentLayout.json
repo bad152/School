@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andry\\source\\repos\\School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9787D3D9-5648-4077-A411-E9D4B78CB70D}|School\\School.vcxproj|C:\\Users\\andry\\source\\repos\\School\\School\\School.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9787D3D9-5648-4077-A411-E9D4B78CB70D}|School\\School.vcxproj|solutionrelative:School\\School.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "School.cpp",
+              "DocumentMoniker": "C:\\Users\\andry\\source\\repos\\School\\School\\School.cpp",
+              "RelativeDocumentMoniker": "School\\School.cpp",
+              "ToolTip": "C:\\Users\\andry\\source\\repos\\School\\School\\School.cpp",
+              "RelativeToolTip": "School\\School.cpp",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAcwIsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T18:18:42.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
